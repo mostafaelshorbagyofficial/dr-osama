@@ -1,28 +1,28 @@
-﻿# Dr. Osama Taha — Premium Personal Brand Experience
+# Dr. Osama Taha — 19-Chapter Personal Brand & Content-Engine Strategy Platform
 
-A luxury editorial personal brand and digital media platform for **Dr. Osama Taha** — Bariatric & Metabolic Surgeon, Leader, and Healthcare Strategist.
+![Dr. Osama Taha Brand Platform Preview](./public/preview.jpg)
 
-## Core Positioning
-**SURGEON · LEADER · HEALTHCARE STRATEGIST · HUMAN IMPACT**
+🌐 **Live Platform:** [dr-osama-lyart.vercel.app](https://dr-osama-lyart.vercel.app/)  
+🏢 **Production Partner:** **ProMedia**  
+👨‍💻 **Platform Architecture & Frontend Engineering:** [Mostafa Mohamed Farhat (Elshorbagy)](https://mostafa-portfolio-iota.vercel.app/)
 
-> *From Surgeon to Healthcare Voice to Leader to Legacy.*
+---
 
-## Tech Stack
-- **Framework**: Vite + React 19 (TypeScript)
-- **Styling**: Tailwind CSS v4
-- **Animation**: Framer Motion
-- **Typography**: Cormorant Garamond & Inter
-- **Production Partner**: ProMedia
+## Overview
 
-## Getting Started
+A 19-chapter dark-luxury editorial personal brand and content-engine strategy platform engineered for **Dr. Osama Taha** — Bariatric & Metabolic Surgeon, Leader, and Healthcare Strategist.
+
+### Key Features
+- **19 Interactive Strategy Chapters:** Covers brand positioning, five content pillars, audience segmentation, short-form & long-form distribution engines, visual identity direction, KPIs, and a 90-day execution roadmap.
+- **Integrated Media Player:** Interactive video and audio reference player embedded directly within the strategy flow.
+- **Luxury Editorial Design System:** Built with React 19, TypeScript, Tailwind CSS v4, and Framer Motion.
+
+---
+
+## Local Development
 
 ```bash
-# Install dependencies
 npm install
-
-# Start local development server
 npm run dev
-
-# Build for production
 npm run build
 ```
